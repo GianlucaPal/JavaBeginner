@@ -32,6 +32,8 @@ public class Main {
         
         System.out.println("============================");
         shirt01.display();
+        System.out.println("============================");
+        System.out.println("============================");         
         System.out.println(((Shirt)shirt01).doReturn());
         System.out.println("============================");
         System.out.println(Pant02.toString());
