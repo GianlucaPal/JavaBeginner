@@ -23,7 +23,7 @@ public class TestClass {
         }
     }
     public void testCheckedException() throws IOException{
-        File testFile = new File("//TEstFile.txt");
+        File testFile = new File("//TestFile.txt");
         testFile.createNewFile();
         System.out.println("testFile exists: " + testFile.exists());
     }
