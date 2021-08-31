@@ -9,7 +9,7 @@ package Chap04;
  *
  * @author Y520
  */
-public class TwoVehicles {
+public class TwoVehicles extends Vehicle{
     public static void main(String args[]) {  
     Vehicle minivan = new Vehicle();  
     Vehicle sportscar = new Vehicle();  

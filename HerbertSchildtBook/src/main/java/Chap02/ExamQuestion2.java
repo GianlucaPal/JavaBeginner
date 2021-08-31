@@ -9,7 +9,7 @@ package Chap02;
  *
  * @author Y520
  */
-public class NewClass1 {
+public class ExamQuestion2 {
 
     public static void main(String[] args) {
 

@@ -9,7 +9,7 @@ package Chap02;
  *
  * @author Y520
  */
-public class NewClass {
+public class ExamQuestion1 {
 
         private static int $;
 

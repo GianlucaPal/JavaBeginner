@@ -20,6 +20,10 @@ public class Vehicle {
     fuelcap = f; 
     mpg = m; 
   } 
+
+    Vehicle() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
  
   // Return the range.  
   int range() {  
